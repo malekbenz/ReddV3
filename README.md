@@ -1,6 +1,6 @@
 # ReddV3
 
-This project was is the next version of ReDD (The migration to angular5).
+This project  is the next version of ReDD (The migration to angular5).
 
 ## Development server
 
