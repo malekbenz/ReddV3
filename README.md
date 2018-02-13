@@ -1,6 +1,6 @@
-# Reddv
+# ReddV3
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
+This project was is the next version of ReDD (The migration to angular5).
 
 ## Development server
 
